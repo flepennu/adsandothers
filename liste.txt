@@ -1,0 +1,7 @@
+# flepennu liste de blocages
+#
+# pub et porn
+
+
+# porn
+127.0.0.1 mediasama.com
