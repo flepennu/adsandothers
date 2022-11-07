@@ -5,3 +5,8 @@
 
 # porn
 127.0.0.1 mediasama.com
+
+# pub
+127.0.0.1 ad-blockerapp.net
+127.0.0.1 ezadblocker.com
+127.0.0.1 supremeadblocker.info
