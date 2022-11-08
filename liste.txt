@@ -10,3 +10,4 @@
 127.0.0.1 ad-blockerapp.net
 127.0.0.1 ezadblocker.com
 127.0.0.1 supremeadblocker.info
+127.0.0.1 watchadsfree.com
