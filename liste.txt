@@ -11,3 +11,9 @@
 127.0.0.1 ezadblocker.com
 127.0.0.1 supremeadblocker.info
 127.0.0.1 watchadsfree.com
+127.0.0.1 adomestich.xyz
+127.0.0.1 tskipadz.info
+127.0.0.1 goosimes.com
+127.0.0.1 file-download.store
+127.0.0.1 adomestich.xyz
+127.0.0.1 easy-ad-blocker.net
