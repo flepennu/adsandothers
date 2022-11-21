@@ -4,28 +4,31 @@
 
 
 # porn
-127.0.0.1 mediasama.com
+mediasama.com
+pornstarharem.com
 
 # pub
-127.0.0.1 ad-blockerapp.net
-127.0.0.1 ezadblocker.com
-127.0.0.1 supremeadblocker.info
-127.0.0.1 watchadsfree.com
-127.0.0.1 adomestich.xyz
-127.0.0.1 tskipadz.info
-127.0.0.1 goosimes.com
-127.0.0.1 file-download.store
-127.0.0.1 adomestich.xyz
-127.0.0.1 easy-ad-blocker.net
-127.0.0.1 awledconside.xyz
-127.0.0.1 dbriolenproce.xyz
-127.0.0.1 fitthatsheis.xyz
-127.0.0.1 watchadsfree.com
-127.0.0.1 passfixx.com
-127.0.0.1 rocking-trends-news.com
-127.0.0.1 ads.trafficjunky.net
-127.0.0.1 adblockerapp.com
-127.0.0.1 nestleareae.tech
-127.0.0.1 thirawogla.com
-127.0.0.1 directbvtfwr.com
-127.0.0.1 ak.hetartwg.com
+ad-blockerapp.net
+ezadblocker.com
+supremeadblocker.info
+watchadsfree.com
+adomestich.xyz
+tskipadz.info
+goosimes.com
+file-download.store
+adomestich.xyz
+easy-ad-blocker.net
+awledconside.xyz
+dbriolenproce.xyz
+fitthatsheis.xyz
+watchadsfree.com
+passfixx.com
+rocking-trends-news.com
+ads.trafficjunky.net
+adblockerapp.com
+nestleareae.tech
+thirawogla.com
+directbvtfwr.com
+ak.hetartwg.com
+turboadblocker.com
+pornstarharem.com
