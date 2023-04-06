@@ -54,3 +54,4 @@ videoadblocker.pro
 ad-blocker-sentinel.com
 adsblockersentinel.info
 www.jeux-gratuits.com
+stopadzblock.net
