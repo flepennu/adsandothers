@@ -1,9 +1,11 @@
 # flepennu liste de blocages
 #
-# pub et porn
+# pub ,porn et jeux-gratuits
 # porn
 mediasama.com
 pornstarharem.com
+# jeux-gratuits
+bestmmogame.com
 # pub
 ad-blockerapp.net
 ezadblocker.com
