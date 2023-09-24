@@ -66,3 +66,4 @@ video-adblocker.pro
 supremoadblocko.com
 adblockology.net
 adblocker2.com
+adblockerglobal.net
