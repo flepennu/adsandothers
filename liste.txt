@@ -1,7 +1,29 @@
 # flepennu liste de blocages
 #
 # pub ,porn et jeux-gratuits
-# porn
+#
+# adobe
+lm.licenses.adobe.com
+lmlicenses.wip4.adobe.com
+lm-prd-da1.licenses.adobe.com
+activate.adobe.com
+activate.wip4.adobe.com
+practivate.adobe.com
+practivate-da1.adobe.com
+na1r.services.adobe.com
+hlrcv.stage.adobe.com
+uds.licenses.adobe.com
+license.adobe.com
+helpexamples.com
+activate-sea.adobe.com
+activate-sjc0.adobe.com
+ereg.adobe.com
+activate.wip3.adobe.com
+ereg.wip3.adobe.com
+wwis-dubc1-vip60.adobe.com
+genuine.adobe.com
+prod.adobegenuine.com
+#
 mediasama.com
 pornstarharem.com
 truelovetango.online
