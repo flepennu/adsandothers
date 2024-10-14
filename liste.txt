@@ -145,3 +145,5 @@ download-adblock360.com
 offernow24.com
 flipplayer.com
 adsquasher.net
+adsquasher.pro
+adblockerelite.pro
