@@ -149,3 +149,4 @@ adsquasher.pro
 adblockerelite.pro
 adblock-offer-download.com
 stripregion.com
+eliteadblocker.net
