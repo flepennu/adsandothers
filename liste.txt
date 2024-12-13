@@ -155,3 +155,4 @@ adsquasher.pro
 adblockerelite.pro
 everybodyshocked.site
 download-privacybear.com
+adsquash.info
