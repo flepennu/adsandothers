@@ -170,3 +170,4 @@ adblockerproshield.pro
 skinthey.com
 adblockerfortify.net
 neptunedim.net
+adblockerproshield.net
