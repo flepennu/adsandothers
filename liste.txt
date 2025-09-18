@@ -201,3 +201,4 @@ giantadblocker.app
 install-north.com
 gamepunk.net
 gankcore.com
+north-ad-block.com
