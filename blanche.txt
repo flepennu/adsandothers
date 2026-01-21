@@ -2,4 +2,5 @@ alldebrid.fr
 alldebrid.com
 annas-archive.se
 annas-archive.org
+annas-archive.in
 freedium-mirror.cfd
