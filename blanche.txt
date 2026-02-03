@@ -3,5 +3,6 @@ alldebrid.com
 annas-archive.se
 annas-archive.org
 annas-archive.in
+annas-archive.li
 freedium-mirror.cfd
 upfiles.com
