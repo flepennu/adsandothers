@@ -4,6 +4,7 @@ annas-archive.se
 annas-archive.org
 annas-archive.in
 annas-archive.li
+annas-archive.gl
 freedium-mirror.cfd
 upfiles.com
 yggtorrent.org
